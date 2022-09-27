@@ -1,7 +1,7 @@
 ## Olá! Sou o Bruno Kalebe 🖐️
 ![BKDSB GitHub stats](https://github-readme-stats.vercel.app/api?username=bkdsb&show_icons=true&hide_rank=true&show&theme=dracula&count_private=true&hide=stars,prs,issues,contribs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkdsb&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkdsb&layout=compact)
 
 
 [![Blog](https://img.shields.io/website?label=PerfilGitPages&style=for-the-badge&url=https://bkdsb.github.io)](https://bkdsb.github.io)
