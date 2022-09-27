@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkdsb&layout=compact)]
 
 
-[![Blog](https://img.shields.io/website?label=PortifolioBasic&style=for-the-badge&url=https://perfilgit.io)](https://bkdsb.github.io/)
+[![Blog](https://img.shields.io/website?label=PerfilGitPages&style=for-the-badge&url=https://bkdsb.github.io)](https://bkdsb.github.io)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/obrunokalebe)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-kalebe)
