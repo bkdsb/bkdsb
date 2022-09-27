@@ -1,5 +1,5 @@
 ## Olá! Sou o Bruno Kalebe 🖐️
-![BKDSB GitHub stats](https://github-readme-stats.vercel.app/api?username=bkdsb&show_icons=true&theme=dracula&count_private=true&hide=stars,prs,issues,contribs)
+![BKDSB GitHub stats](https://github-readme-stats.vercel.app/api?username=bkdsb&show&theme=dracula&count_private=true&hide=stars,prs,issues,contribs)
 
 [![Blog](https://img.shields.io/website?label=PortifolioBasic&style=for-the-badge&url=https://portfolio-bel.netlify.app)](https://portfolio-bel.netlify.app)
 
