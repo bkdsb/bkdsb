@@ -1,6 +1,9 @@
 ## Olá! Sou o Bruno Kalebe 🖐️
 ![BKDSB GitHub stats](https://github-readme-stats.vercel.app/api?username=bkdsb&show_icons=true&hide_rank=true&show&theme=dracula&count_private=true&hide=stars,prs,issues,contribs)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkdsb&layout=compact)](https://bkdsb.github.io/)
+
+
 [![Blog](https://img.shields.io/website?label=PortifolioBasic&style=for-the-badge&url=https://portfolio-bel.netlify.app)](https://portfolio-bel.netlify.app)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/obrunokalebe)
